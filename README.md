@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aiden mcmanus</h1>
-<h3 align="center">Im a junior at monacan high school, I enjoy programming and first robotics</h3>
+
 
 - 🌱 I’m currently learning **Java(gradle),node.js, and advanced js and css**
 
