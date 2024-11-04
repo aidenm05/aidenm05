@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aiden mcmanus</h1>
 
 
-- 🌱 I’m currently learning **Java(gradle),node.js, and advanced js and css**
+- 🌱 I’m currently learning *Python and node.js **
 
 - 👨‍💻 All of my projects are available at [https://aidenm05.github.io/protfolio/](https://aidenm05.github.io/protfolio/)
 
-- 💬 Ask me about **FRC, Arduino, electrical engineering and fusion360.**
+- 💬 Ask me about **FRC, Arduino,and analog electornics.**
 
 - 📫 How to reach me **aidenpmcmanus@gmail.com**
 
