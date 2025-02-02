@@ -6,5 +6,5 @@
 -  **aidenpmcmanus@gmail.com**
 
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/aidenm05/count.svg)
 
