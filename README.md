@@ -3,7 +3,7 @@
 
 -  I’m currently learning Python and Java **
 
-- How to reach me **aidenpmcmanus@gmail.com**
+-  **aidenpmcmanus@gmail.com**
 
 
 
