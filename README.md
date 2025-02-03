@@ -9,5 +9,5 @@
 Visitor count
 ![Visitor Count](https://profile-counter.glitch.me/aidenm05/count.svg)
 
--
--  ![18](https://github.com/user-attachments/assets/5c1774ac-e550-4e05-ba47-4d32e14698dc)
+
+ ![18](https://github.com/user-attachments/assets/5c1774ac-e550-4e05-ba47-4d32e14698dc)
